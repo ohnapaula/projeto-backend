@@ -4,3 +4,4 @@ coverage/
 logs/
 uploads/*
 !uploads/.gitkeep
+.github/
